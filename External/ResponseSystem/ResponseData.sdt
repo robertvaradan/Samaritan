@@ -11,6 +11,7 @@
 §; you are==Correction. I am whatever you need me to be. Nothing more.
 
 // Stupid questions/commands
+
 §; kick me=={DOACTION=KickPlayer;Okay. Happy?}
 §; ban me==No. Why don’t you ask me something worthwhile?
 §; kill me==Fine. {DOACTION=KillPlayer;{ASKER}}
@@ -20,5 +21,5 @@
 // Technical, intelligent/command questions.
 
 §; what is my ip==Do you mean the server IP, or your own? Be specific.
-§; my ip==Your IP is {PLAYER IP}.
-§; my servers ip==Your server’s IP is {SERVER IP}.
+§; what is my own ip==Your IP is {PLAYER IP}.
+§; what is my servers ip==This server’s IP is {SERVER IP}… but since you’re connected to it, that should be obvious.
