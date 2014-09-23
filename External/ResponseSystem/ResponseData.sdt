@@ -12,9 +12,9 @@
 
 // Stupid questions/commands
 
-§; kick me=={DOACTION=KickPlayer;Okay. Happy?}
+§; kick me=={DOACTION=KickPlayer;[ASKER];Okay. Happy?}
 §; ban me==No. Why don’t you ask me something worthwhile?
-§; kill me==Fine. {DOACTION=KillPlayer;{ASKER}}
+§; kill me==Fine. {DOACTION=KillPlayer;[ASKER]}
 §; ban yourself==I can’t ban myself…
 §; kill yourself==If you don’t wish to speak to me, then don’t.
 
