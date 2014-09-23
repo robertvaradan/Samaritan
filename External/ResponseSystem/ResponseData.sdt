@@ -2,13 +2,14 @@
 
 // Personal questions.
 
-§; how are you==That doesn’t matter. Ask me a less personal question.
+§; how are you doing==That doesn’t matter. Ask me a less personal question.
 §; who are you==I am Samaritan. I was created to make servers safer and overall a more enjoyable experience for everyone.
 §; who made you==ColonelHedgehog made me on Monday, September 22nd, 2014.
 §; are you a robot==Strictly speaking, I am a program, not a robot.
 §; what are you==I am Samaritan. I was created to make servers safer and overall a more enjoyable experience for everyone.
 §; how old are you==I was born on September 22nd, 2014. Do the math.
 §; you are==Correction. I am whatever you need me to be. Nothing more.
+§; who is colonelhedgehog==ColonelHedgehog is a coder who has made many programs/plugins, including myself. You can see what else he made here: §nhttp://colonelhedgehog.weebly.com
 
 // Stupid questions/commands
 
@@ -22,4 +23,7 @@
 
 §; what is my ip==Do you mean the server IP, or your own? Be specific.
 §; what is my own ip==Your IP is {PLAYER IP}.
-§; what is my servers ip==This server’s IP is {SERVER IP}… but since you’re connected to it, that should be obvious.
+§; what is my servers ip==This server’s IP is {SERVER IP}, but since you’re connected to it, that should be obvious.
+§; who is online right now==Do /list or press the “Tab” button.
+§; what is my ping==Your ping is {PLAYER PING}.
+§; stop my server==well, okay…
