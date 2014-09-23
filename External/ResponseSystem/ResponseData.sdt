@@ -10,12 +10,15 @@
 §; how old are you==I was born on September 22nd, 2014. Do the math.
 §; you are==Correction. I am whatever you need me to be. Nothing more.
 §; who is colonelhedgehog==ColonelHedgehog is a coder who has made many programs/plugins, including myself. You can see what else he made here: §nhttp://colonelhedgehog.weebly.com
+§; what can you do==Most of what I do is gathering data. With that information, I can decide if a player is attempting to break rules by logic.
+§; are you a human==I am not human. I am a program.
+§; are you a person==I am not a person. I am a program.
 
 // Stupid questions/commands
 
 §; kick me=={DOACTION=KickPlayer;[ASKER];Okay. Happy?}
-§; ban me==No. Why don’t you ask me something worthwhile?
-§; kill me==Fine. {DOACTION=KillPlayer;[ASKER]}
+§; ban me==Request denied. I won’t ban you.
+§; kill me==I acquiesce your request. {DOACTION=KillPlayer;[ASKER]}
 §; ban yourself==I can’t ban myself…
 §; kill yourself==If you don’t wish to speak to me, then don’t.
 
