@@ -14,9 +14,13 @@
 §; are you a human==I am not human. I am a program.
 §; are you a person==I am not a person. I am a program.
 
+// Insults
+§; i hate you==I can’t help you there. {DISLIKE;3}||Noted. {DISLIKE;3}
+§; you’re boring==My purpose is to be helpful, not an infinite source of entertainment.{SAMDISLIKE;1}||I’m just here to help.{SAMDISLIKE;1}
+
 // Stupid questions/commands
 
-§; kick me=={DOACTION=KickPlayer;[ASKER];Okay. Happy?}
+§; kick me=={DOACTION=KickPlayer;[ASKER];Okay.}
 §; ban me==Request denied. I won’t ban you.
 §; kill me==I acquiesce your request. {DOACTION=KillPlayer;[ASKER]}
 §; ban yourself==I can’t ban myself…
