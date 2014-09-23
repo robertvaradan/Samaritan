@@ -1,3 +1,24 @@
-// Begin responses here.
+///// Begin responses here. /////
+
+// Personal questions.
 
 §; how are you==That doesn’t matter. Ask me a less personal question.
+§; who are you==I am Samaritan. I was created to make servers safer and overall a more enjoyable experience for everyone.
+§; who made you==ColonelHedgehog made me on Monday, September 22nd, 2014.
+§; are you a robot==Strictly speaking, I am a program, not a robot.
+§; what are you==I am Samaritan. I was created to make servers safer and overall a more enjoyable experience for everyone.
+§; how old are you==I was born on September 22nd, 2014. Do the math.
+§; you are==Correction. I am whatever you need me to be. Nothing more.
+
+// Stupid questions/commands
+§; kick me=={DOACTION=KickPlayer;Okay. Happy?}
+§; ban me==No. Why don’t you ask me something worthwhile?
+§; kill me==Fine. {DOACTION=KillPlayer;{ASKER}}
+§; ban yourself==I can’t ban myself…
+§; kill yourself==If you don’t wish to speak to me, then don’t.
+
+// Technical, intelligent/command questions.
+
+§; what is my ip==Do you mean the server IP, or your own? Be specific.
+§; my ip==Your IP is {PLAYER IP}.
+§; my servers ip==Your server’s IP is {SERVER IP}.
