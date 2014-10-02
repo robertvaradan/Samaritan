@@ -3,34 +3,37 @@
 // Personal questions.
 
 §; how are you doing==That doesn’t matter. Ask me a less personal question.
-§; who are you==I am Samaritan. I was created to make servers safer and overall a more enjoyable experience for everyone.
+§; who are you==I am Samaritan. I was created to make servers safer and overall a more enjoyable experience for everyone.|~|I, Samaritan, am a program. I was designed to detect grief as it happens, in contrast to after.
 §; who made you==ColonelHedgehog made me on Monday, September 22nd, 2014.
 §; are you a robot==Strictly speaking, I am a program, not a robot.
 §; what are you==I am Samaritan. I was created to make servers safer and overall a more enjoyable experience for everyone.
 §; how old are you==I was born on September 22nd, 2014. Do the math.
 §; who is colonelhedgehog==ColonelHedgehog is a coder who has made many programs/plugins, including myself. You can see what else he made here: §nhttp://colonelhedgehog.weebly.com
-§; what can you do==Most of what I do is gathering data. With that information, I can decide if a player is attempting to break rules by logic.
-§; are you a human==I am not human. I am a program.
-§; are you a person==I am not a person. I am a program.
+§; what can you do==Most of what I do is gathering data. With that information, I can decide if a player is attempting to break rules.
+§; are you a human==I am not human. I am a program.|~|No. I am a program.
+§; are you a person==I am not a person. I am a program.|~|No. I am not a person nor am I controlled by one.
+§; am i nice==Doesn’t really matter.
 
 // Insults
 §; i hate you==I can’t help you there. {DISLIKE;1}|~|Noted. {DISLIKE;1}
-§; your boring==My purpose is to be helpful, not an infinite source of entertainment.{DISLIKE;1}|~|I’m just here to help.{DISLIKE;1}
+§; your boring==My purpose is to be helpful, not an infinite source of entertainment.{DISLIKE;1}|~|I’m here to help.{DISLIKE;1}
+§; youre suck==Duly noted…{DISLIKE;2}
+§; nub==Don’t waste my time with random quips.
 
 // Stupid questions/commands
 
 §; kick me=={DOACTION=KickPlayer;[ASKER];Okay.}
 §; ban me==Request denied. I won’t ban you.
 §; kill me==Done. {DOACTION=KillPlayer;[ASKER]}
-§; ban yourself==I can’t ban myself.|~|If you no longer require my services, simply remove me from your plugins folder.
+§; ban yourself==I can’t ban myself.|~|If you no longer require my services, simply remove me from your plugins folder.|~|Such would be against my programming.
 §; kill yourself==If you don’t wish to speak to me, then don’t. {DISLIKE;3}
 
 // Technical, intelligent/command questions.
 
 §; what is my ip==Do you mean the server IP, or your own? Be specific.
-§; what is my own ip==Your IP is {PLAYER IP}.
+§; what is my own ip==Your IP is {PLAYER IP}.|~|This is your IP: {PLAYER IP}
 §; what is my servers ip==This server’s IP is {SERVER IP}, but since you’re connected to it, that should be obvious.
-§; who is online right now==Do /list or press the “Tab” button.
+§; who is online right now==Do /list or press the “Tab” button while chatting.|~|In the interests of not spamming your chat, use /list.
 §; what is my ping==Your ping is {PLAYER PING}.
 §; stop my server==Stopping and restarting servers is an admin reserved command. Use /stop to stop the server.
 §; what time is it==The server’s time is currently {TIME}.
