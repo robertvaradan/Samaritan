@@ -4,7 +4,7 @@
 
 
 // Personal questions.
-
+§; 
 §; hello=={DOACTION=Greeting}
 §; hi=={DOACTION=Greeting}
 §; hey=={DOACTION=Greeting}
@@ -28,7 +28,7 @@
 
 // Stupid questions/commands
 §; kick me=={DOACTION=KickPlayer;[ASKER];Okay.}
-§; ban me==Request denied. I won’t ban you.
+§; ban me==Request denied.
 §; kill me==Done. {DOACTION=KillPlayer;[ASKER]}
 §; ban yourself==I can’t ban myself.|~|If you no longer require my services, simply remove me from your plugins folder.|~|Such would be against my programming.
 §; kill yourself==If you don’t wish to speak to me, then don’t. {DISLIKE;3}
@@ -43,4 +43,4 @@
 §; stop my server==Stopping and restarting servers is an admin reserved command. Use /stop to stop the server.
 §; what time is it==The server’s time is currently {TIME}.
 §; what is the tps==The server’s Animal Ticks/Second and Monster Ticks/Second are {TPS}, respectively.
-§; 
+§; list all ops==Here are all the operators:{OPS}
